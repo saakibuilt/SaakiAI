@@ -1,8 +1,7 @@
 # SAaki A.I.
 
-<p align="center">
-  <img src="assets/saaki.png" alt="Saaki AI" width="100%" />
-</p>
+
+<img width="851" height="315" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/62591631-01ad-4ec5-8c98-c5ccfbe53aa2" />
 
 ---
 
