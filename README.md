@@ -1,4 +1,4 @@
-# SAaki A.I.
+# SAAKI A.I.
 
 
 <img width="851" height="315" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/62591631-01ad-4ec5-8c98-c5ccfbe53aa2" />
